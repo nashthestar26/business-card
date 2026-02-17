@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+body{
+    margin: 20px;
+    font-family: "Oswald", sans-serif;
+}
+.my-image{
+    width: 150px;
+}
+.card{
+    text-align: center;
+    width: 400px;
+    margin: 300px auto;
+    justify-content: space-around;
+    padding: 20px;
+    display: flex;
+    color: #2b2839 ;
+    background-color:#0AC4E0 ;
+    border-bottom: 7px solid #F6E7BC;
+
+}
